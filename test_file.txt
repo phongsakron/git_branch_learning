@@ -13,4 +13,8 @@ on branch : new_branch
     A
     B
     C
+    D
+    E
+    F
+    G
 ]
